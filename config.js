@@ -36,7 +36,7 @@ global.THUMB_IMAGE =
   process.env.IMAGE ||
   "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
-global.sudo = process.env.SUDO || "923192173398";
+global.sudo = process.env.SUDO || "18293529325";
 global.owner = process.env.OWNER_NUMBER || "18293529325";
 global.style = process.env.STYLE || "2";
 global.gdbye = process.env.GOODBYE || "false";
